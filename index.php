@@ -1,3 +1,4 @@
 <?php
 
-phpinfo();
+echo"Wind of change";
+//phpinfo();
